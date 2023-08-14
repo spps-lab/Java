@@ -18,6 +18,9 @@
             * [Permutation](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/backtracking/Permutation.java)
             * [PowerSum](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/backtracking/PowerSum.java)
             * [WordSearch](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/backtracking/WordSearch.java)
+          * bitmanipulation
+            * [IsEven](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/bitmanipulation/IsEven.java)
+            * [ReverseBits](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/bitmanipulation/ReverseBits.java)
           * ciphers
             * a5
               * [A5Cipher](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/ciphers/a5/A5Cipher.java)
@@ -128,6 +131,7 @@
               * [SearchSinglyLinkedListRecursion](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/lists/SearchSinglyLinkedListRecursion.java)
               * [SinglyLinkedList](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/lists/SinglyLinkedList.java)
               * [SkipList](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/lists/SkipList.java)
+            * [Node](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/Node.java)
             * queues
               * [CircularQueue](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/queues/CircularQueue.java)
               * [Deques](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/queues/Deques.java)
@@ -182,7 +186,7 @@
               * [TrieImp](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/trees/TrieImp.java)
               * [VerticalOrderTraversal](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/trees/VerticalOrderTraversal.java)
               * [ZigzagTraversal](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/trees/ZigzagTraversal.java)
-          * utils
+          * devutils
             * entities
               * [ProcessDetails](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/devutils/entities/ProcessDetails.java)
             * nodes
@@ -332,6 +336,7 @@
             * [SquareRootWithNewtonRaphsonMethod](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/SquareRootWithNewtonRaphsonMethod.java)
             * [StandardDeviation](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/StandardDeviation.java)
             * [StandardScore](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/StandardScore.java)
+            * [StrobogrammaticNumber](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/StrobogrammaticNumber.java)
             * [SumOfArithmeticSeries](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/SumOfArithmeticSeries.java)
             * [SumOfDigits](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/SumOfDigits.java)
             * [SumWithoutArithmeticOperators](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/SumWithoutArithmeticOperators.java)
@@ -527,6 +532,9 @@
             * [PermutationTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/backtracking/PermutationTest.java)
             * [PowerSumTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/backtracking/PowerSumTest.java)
             * [WordSearchTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/backtracking/WordSearchTest.java)
+          * bitmanipulation
+            * [IsEvenTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/bitmanipulation/IsEvenTest.java)
+            * [ReverseBitsTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/bitmanipulation/ReverseBitsTest.java)
           * ciphers
             * a5
               * [LFSRTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/ciphers/a5/LFSRTest.java)
@@ -679,6 +687,7 @@
             * [SquareRootWithNewtonRaphsonTestMethod](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/SquareRootWithNewtonRaphsonTestMethod.java)
             * [StandardDeviationTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/StandardDeviationTest.java)
             * [StandardScoreTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/StandardScoreTest.java)
+            * [StrobogrammaticNumberTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/StrobogrammaticNumberTest.java)
             * [SumOfArithmeticSeriesTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/SumOfArithmeticSeriesTest.java)
             * [SumOfDigitsTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/SumOfDigitsTest.java)
             * [SumWithoutArithmeticOperatorsTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/SumWithoutArithmeticOperatorsTest.java)
@@ -720,6 +729,7 @@
           * searches
             * [BinarySearch2dArrayTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/searches/BinarySearch2dArrayTest.java)
             * [BreadthFirstSearchTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/searches/BreadthFirstSearchTest.java)
+            * [DepthFirstSearchTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/searches/DepthFirstSearchTest.java)
             * [HowManyTimesRotatedTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/searches/HowManyTimesRotatedTest.java)
             * [KMPSearchTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/searches/KMPSearchTest.java)
             * [OrderAgnosticBinarySearchTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/searches/OrderAgnosticBinarySearchTest.java)
